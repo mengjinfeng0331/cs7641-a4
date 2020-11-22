@@ -1,4 +1,5 @@
-### CS7641 Assignment-2 random optimization##
+### CS7641 Assignment-4 reinforcement learning
+
 # github link: 
 https://github.com/mengjinfeng0331/cs7641-a4
 
